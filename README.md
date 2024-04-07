@@ -1,6 +1,6 @@
 # Full Stack Web Project with Microservices
 This project is a full-stack web application project
-and it was created with Java and React. 
+and it was created with Java and React.<br/> 
 Spring Cloud was used in this project to create
 the microservice architecture. Detailed explanations
 of the services in the microservice architecture 
