@@ -6,6 +6,11 @@ the microservice architecture. Detailed explanations
 of the services in the microservice architecture 
 are explained in the readme files of the services.
 
+## Architectural Design
+<p align="center">
+    <img src="architectural_design.jpeg" />
+</p>
+
 ## Subject Of Project
 CineVision App is online cinema ticket sale website. Purpose of 
 this website is to provide ease of buying tickets for those who 
@@ -52,6 +57,16 @@ There are many technologies in this project. These are:
     <li>Redux</li>
 </ul>
 
+## Project UI
+
+https://user-images.githubusercontent.com/79381882/194945895-f7e2d2d2-4899-4ade-8c79-ecb647949ffd.mp4
+
+<h4>Main Page</h4>
+
+<img src="homa_page.jpg">
+
+[For more UI Images](https://github.com/Parth018/CineVision-Java-React/tree/main/frontend)
+
 ## Usage Of Technologies In Project
 There are 5 services in this project and each service 
 are written with N-layered architecture. Spring Cloud
@@ -97,11 +112,6 @@ in the docker-compose.yml file.
 On the Frontend side, JavaScript and React was used. Also,
 Axios was preferred to send request to the backend. For state management,
 Redux was used. For, design of the UI, Bootstrap and Css are used.
-
-## Architectural Design
-<p align="center">
-    <img src="architectural_design.jpeg" />
-</p>
 
 ## How can I use the Project ?
 Download the source code of project. Open this project with your 
@@ -186,13 +196,3 @@ on <b> localhost:3000 </b>.
 
 </ol>
 
-
-## Project UI
-
-https://user-images.githubusercontent.com/79381882/194945895-f7e2d2d2-4899-4ade-8c79-ecb647949ffd.mp4
-
-<h4>Main Page</h4>
-
-<img src="homa_page.jpg">
-
-[For more UI Images](https://github.com/Parth018/CineVision-Java-React/tree/main/frontend)
