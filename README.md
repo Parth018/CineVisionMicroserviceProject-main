@@ -8,7 +8,7 @@ are explained in the readme files of the services.
 
 ## Architectural Design
 <p align="center">
-    <img src="architectural_design.jpeg" />
+    <img src="architectural_design.jpeg"  />
 </p>
 
 ## Subject Of Project
