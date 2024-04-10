@@ -128,8 +128,7 @@ kafka etc. Open cmd in the project directory and type
 
 command to run the containers.
 </p>
-
- <h3> <li>Run Eureka Server</li> </h3>
+<h3> <li>Run Eureka Server</li> </h3>
 <p>
     Go to EurekaServerApplication class which is in eureka-server module
 and run this class to create eureka server. If you want to display
