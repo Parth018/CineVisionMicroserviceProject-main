@@ -78,7 +78,7 @@ Zipkin and Sleuth were used to monitor cross-service logs. Also,
 Resilience4j used as Circuit Breaker.
 <br>
 <br>
-In the Api Gateway, Spring Cloud Gateway was used for managing
+In the Api Gateway,Spring Cloud Gateway was used for managing
 requests.
 <br>
 <br>
