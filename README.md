@@ -157,7 +157,6 @@ MovieServiceApplication class.
 In the user service module, find UserServiceApplication class and run this
 class.
 </p>
-
 <h3> <li>Run Email Service</li> </h3>
 <p> 
 EmailServiceApplication class is in email service module. To run email service module,
