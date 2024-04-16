@@ -22,7 +22,8 @@ redirect to payment page. In this payment page, they can choose ticket count and
 student and adult. Then, they can choose the chairs they will sit on in the movie theater.
 Finally, they complete the payment process after entering information
 such as credit card information, email, name and surname.
-If the payment is successful, the ticket details are sent to the email which entered by the user.
+If the payment is successful, the ticket details are sent to the email which 
+entered by the user.
 If people want to share their opinions about the movie, they can write comments on the movie detail page.
 However, People must create an account to comments on movies. Only admins
 can add movie,actor or director to the system. This authorization process is controlled
