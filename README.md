@@ -14,7 +14,7 @@ are explained in the readme files of the services.
 ## Subject Of Project
 CineVision App is online cinema ticket sale website. Purpose of 
 this website is to provide ease of buying tickets for those who 
-want to watch movies in the cinema. People can display movies in the theaters or
+want to watch movies in the cinema. People can display movies in the-theaters or
 upcoming movies. They can view the movie details and can learn the plot of the movie, 
 actors of the movie, release date and so on. In this detail page, people can choose the city
 and movie theater where they want to watch to movie. After this selection, they can automatically
