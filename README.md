@@ -25,9 +25,9 @@ such as credit card information, email, name and surname.
 If the payment is successful, the ticket details are sent to the email which 
 entered by the user.
 If people want to share their opinions about the movie, they can write comments on the movie detail page.
-However, People must create an account to comments on movies. Only admins
-can add movie,actor or director to the system. This authorization process is controlled
-with Jwt token.
+However, People must create an account to comment on movies. Only admins
+can add a movie, actor, or director to the system. This authorization process is controlled
+with a Jwt token.
 
 ## Technologies Of Project
 There are many technologies in this project. These are:
@@ -70,21 +70,21 @@ https://user-images.githubusercontent.com/79381882/194945895-f7e2d2d2-4899-4ade-
 
 ## Usage Of Technologies In Project
 There are 5 services in this project and each service 
-are written with N-layered architecture. Spring Cloud
-used for microservice infrastructure.
-Netflix Eureka Server used to create eureka server. This 
-eureka server contains movie service, user service and email service
-eureka clients and api-gateway service. In addition,
+is written with N-layered architecture. Spring Cloud
+is used for microservice infrastructure.
+Netflix Eureka Server was used to create the Eureka server. This 
+eureka server contains a movie service, user service and email service
+eureka clients, and an api-gateway service. In addition,
 Zipkin and Sleuth were used to monitor cross-service logs. Also,
-Resilience4j used as Circuit Breaker.
+Resilience4j is used as a Circuit Breaker.
 <br>
 <br>
-In the Api Gateway,Spring Cloud Gateway was used for managing
+In the Api Gateway, Spring Cloud Gateway was used for managing
 requests.
 <br>
 <br>
 In the Eureka Server, Netflix Eureka Server was used. And Spring
-Security was used to secure eureka server.
+Security was used to secure Eureka server.
 <br>
 <br>
 WebFlux was used for communication between Movie and User Services.
