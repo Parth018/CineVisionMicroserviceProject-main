@@ -92,22 +92,22 @@ And, Apache Kafka was used for asynchronous communication
 between Movie and Email Services.
 <br>
 <br>
-In the User Service, MongoDB used as database. Spring Security
-was used for encrypting user's passwords and generating Jwt token.
+In the User Service, MongoDB is used as a database. Spring Security
+was used for encrypting user's passwords and generating Jwt tokens.
 <br>
 <br>
-In the Movie Service, PostgreSql used as database and Spring Data Jpa
+In the Movie Service, PostgreSQL was used as the database and Spring Data Jpa
 was used. Webflux and Apache Kafka was used for communication with other services.
 Resilience4J Circuit Breaker was used here. Displaying and coming soon movies
 are cached using with Redis.
 <br>
 <br>
 In the Email Service, Apache Kafka was used for receiving the 
-message from Movie Service. Java Mail Sender and FreeMarker template 
+message from Movie Service. Java Mail Sender and FreeMarker templates 
 was used for creating email template and sending email.
 <br>
 <br>
-PostgreSql, MongoDB, Apache Kafka and Zipkin run as Docker container
+PostgreSQL, MongoDB, Apache Kafka, and Zipkin run as Docker containers
 in the docker-compose.yml file.
 
 On the Frontend side, JavaScript and React was used. Also,
