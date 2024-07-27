@@ -84,34 +84,34 @@ requests.
 <br>
 <br>
 In the Eureka Server, Netflix Eureka Server was used. And Spring
-Security was used to secure Eureka server.
+Security was used to secure the Eureka server.
 <br>
 <br>
-WebFlux was used for communication between Movie and User Services.
+WebFlux was used to communicate between Movie and User Services.
 And, Apache Kafka was used for asynchronous communication
 between Movie and Email Services.
 <br>
 <br>
 In the User Service, MongoDB is used as a database. Spring Security
-was used for encrypting user's passwords and generating Jwt tokens.
+was used to encrypt users' passwords and generate Jwt tokens.
 <br>
 <br>
-In the Movie Service, PostgreSQL was used as the database and Spring Data Jpa
-was used. Webflux and Apache Kafka was used for communication with other services.
+In the Movie Service, PostgreSQL was used as the database and Spring Data JPA
+was used. Webflux and Apache Kafka were used to communicate with other services.
 Resilience4J Circuit Breaker was used here. Displaying and coming soon movies
-are cached using with Redis.
+are cached using Redis.
 <br>
 <br>
 In the Email Service, Apache Kafka was used for receiving the 
-message from Movie Service. Java Mail Sender and FreeMarker templates 
-was used for creating email template and sending email.
+messages from the Movie Service. Java Mail Sender and FreeMarker templates 
+were used for creating email templates and sending emails.
 <br>
 <br>
 PostgreSQL, MongoDB, Apache Kafka, and Zipkin run as Docker containers
 in the docker-compose.yml file.
 
 On the Frontend side, JavaScript and React was used. Also,
-Axios was preferred to send request to the backend. For state management,
+Axios was preferred to send requests to the backend. For state management,
 Redux was used. For, design of the UI, Bootstrap and Css are used.
 
 ## How can I use the Project ?
