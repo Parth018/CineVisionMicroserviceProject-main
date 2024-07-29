@@ -110,28 +110,28 @@ were used for creating email templates and sending emails.
 PostgreSQL, MongoDB, Apache Kafka, and Zipkin run as Docker containers
 in the docker-compose.yml file.
 
-On the Frontend side, JavaScript and React was used. Also,
+On the front side, JavaScript and React were used. Also,
 Axios was preferred to send requests to the backend. For state management,
-Redux was used. For, design of the UI, Bootstrap and Css are used.
+Redux was used. For, the design of the UI, Bootstrap, and CSS are used.
 
-## How can I use the Project ?
-Download the source code of project. Open this project with your 
-favorite IDE. Make sure Java 17, Node.js and Docker are installed on
+## How can I use the Project?
+Download the source code of the project. Open this project with your 
+favorite IDE. Make sure Java 17, Node.js, and Docker are installed on
 your computer. And, follow these steps:
 
 <ol>
     <h3> <li>Run docker-compose.yml file</li> </h3>
 <p>
-This docker compose file is necessary to run postgre, mongo, 
-kafka etc. Open cmd in the project directory and type
+This docker composes file is necessary to run Postgre, mongo, 
+Kafka etc. Open cmd in the project directory and type
 
-    docker compose up -d
+    docker-compose up -d
 
 command to run the containers.
 </p>
 <h3> <li>Run Eureka Server</li> </h3>
 <p>
-    Go to EurekaServerApplication class which is in eureka-server module
+    Go to the EurekaServerApplication class which is in the eureka-server module
 and run this class to create eureka server. If you want to display
 eureka server panel, you can go to <b>localhost:8080/eureka/web </b> or
 <b>localhost:8761</b> addresses. Then, enter username= <b>eureka</b> and 
