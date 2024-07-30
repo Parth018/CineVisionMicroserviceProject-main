@@ -15,13 +15,13 @@ are explained in the readme files of the services.
 CineVision App is an online cinema ticket sale website. The purpose of 
 this website is to provide ease of buying tickets for those who 
 want to watch movies in the cinema. People can display movies in the theaters or
-upcoming movies. They can view the movie details and can learn the plot of the movie, 
+upcoming movies. They can view the movie details and learn the plot of the movie, 
 the actors of the movie, the release date, and so on. In this detail page, people can choose the city
 and movie theater where they want to watch the movie. After this selection, they can automatically
-redirect to the payment page. In this payment page, they can choose ticket count and type such as 
+redirect to the payment page. On this payment page, they can choose ticket count and type such as 
 student and adult. Then, they can choose the chairs they will sit on in the movie theater.
 Finally, they complete the payment process after entering information
-such as credit card information, email, name and surname.
+such as credit card information, email, name, and surname.
 If the payment is successful, the ticket details are sent to the email which 
 entered by the user.
 If people want to share their opinions about the movie, they can write comments on the movie detail page.
@@ -73,7 +73,7 @@ There are 5 services in this project and each service
 is written with N-layered architecture. Spring Cloud
 is used for microservice infrastructure.
 Netflix Eureka Server was used to create the Eureka server. This 
-eureka server contains a movie service, user service and email service
+eureka server contains a movie service, user service email service
 eureka clients, and an api-gateway service. In addition,
 Zipkin and Sleuth were used to monitor cross-service logs. Also,
 Resilience4j is used as a Circuit Breaker.
@@ -132,8 +132,8 @@ command to run the containers.
 <h3> <li>Run Eureka Server</li> </h3>
 <p>
     Go to the EurekaServerApplication class which is in the eureka-server module
-and run this class to create eureka server. If you want to display
-eureka server panel, you can go to <b>localhost:8080/eureka/web </b> or
+and run this class to create a eureka server. If you want to display
+the eureka server panel, you can go to <b>localhost:8080/eureka/web </b> or
 <b>localhost:8761</b> addresses. Then, enter username= <b>eureka</b> and 
 password= <b>password</b>.
 
@@ -142,7 +142,7 @@ password= <b>password</b>.
  <h3> <li>Run Api Gateway</li> </h3>
 <p>
    To forward the requests to the relevant services, Gateway must be 
-run. Go to ApiGatewayApplication class which is in api-gateway modules
+run. Go to the ApiGatewayApplication class which is in the api-gateway modules
 and run this class. If you want to check that the api-gateway is registered 
 to the eureka server, you can display the eureka server panel.
 </p>
