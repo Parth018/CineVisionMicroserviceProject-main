@@ -177,7 +177,7 @@ Change mail configurations in application.yml file with your own configurations.
 
 <h3> <li>Start React (Frontend) Application</li> </h3>
 <p> 
-Go to frontend package which is the location of frontend code.
+Go to the frontend package which is the location of the frontend code.
 Firstly, type
 
     npm install
