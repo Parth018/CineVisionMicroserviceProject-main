@@ -160,19 +160,19 @@ class.
 </p>
 <h3> <li>Run Email Service</li> </h3>
 <p> 
-EmailServiceApplication class is in email service module. To run email service module,
+The emailServiceApplication class is in the email service module. To run the email service module,
 run this class.
 </p>
 
 <h3> <li>Run Email Service</li> </h3>
 <p> 
-EmailServiceApplication class is in email service module. To run email service module,
+EmailServiceApplication class is in the email service module. To run email service module,
 run this class. If this module is started successfully, you can view 
 all running services in the eureka server using with eureka panel which is
 running on localhost:8761 or localhost:8080/eureka/web.
 </p>
 <h5>Important Note: <br>
-Change mail configurations in application.yml file with your own configurations.
+Change mail configurations in the application.yml file with your own configurations.
 </h5>
 
 <h3> <li>Start React (Frontend) Application</li> </h3>
