@@ -31,7 +31,7 @@ with a Jwt token.
 
 ## Technologies Of Project
 There are many technologies in this project. These are:
-<h5> Backend Techologies </h5>
+<h5> Backend Tech: </h5>
 <ul>
     <li>Java 17</li>
     <li>Spring Boot 2.7.0 </li>
