@@ -16,8 +16,8 @@ CineVision App is an online cinema ticket sale website. The purpose of
 this website is to provide ease of buying tickets for those who 
 want to watch movies in the cinema. People can display movies in the theaters or
 upcoming movies. They can see the movie details and learn the plot of the movie, 
-the actors of the movie, the release date, and so on. In this detail page, people can choose the city
-and movie theater to watch the movie. After this selection, they can automatically
+the actors of the movie, the release date, and so on. On this detail page, people can choose the city
+and movie theater where they want to watch the movie. After this selection, they can automatically
 redirect to the payment page. On this payment page, they can choose ticket count and type such as 
 student and adult. Then, they can choose the chairs they will sit on in the movie theater.
 Finally, they complete the payment process after entering information
