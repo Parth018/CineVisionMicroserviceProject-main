@@ -17,14 +17,14 @@ this website is to provide ease of buying tickets for those who
 want to watch movies in the cinema. People can display movies in the theaters or
 upcoming movies. They can see the movie details and learn the plot of the movie, 
 the actors of the movie, the release date, and so on. On this detail page, people can choose the city
-and movie theater where they want to watch the movie. After this selection, they can automatically
+and movie theater where they want to watch the film. After this selection, they can automatically
 redirect to the payment page. On this payment page, they can choose ticket count and type such as 
 student and adult. Then, they can choose the chairs they will sit on in the movie theater.
 Finally, they complete the payment process after entering information
 such as credit card information, email, name,& surname.
 If the payment is successful, the ticket details are sent to the email which 
 entered by the user.
-If people want to share their opinions about the movie, they can write comments on the movie detail page.
+If people want to share their opinions about the movie, they can see comments on the movie detail page.
 However, People must create an account to comment on movies. Only admins
 can add a movie, actor, or director to the system. This authorization process is controlled
 with a Jwt token.
