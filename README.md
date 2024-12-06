@@ -33,7 +33,7 @@ with a Jwt token.
 There are many technologies in this project. These are:
 <h5> Backend Tech: </h5>
 <ul>
-    <li>Java 17</li>
+    <li>Java17+</li>
     <li>Spring Boot 2.7.0 </li>
     <li>Spring Cloud</li>
     <li>Spring Data Jpa</li>
