@@ -6,10 +6,6 @@ the microservice architecture. Detailed explanations
 of the services in the microservice architecture 
 are explained in the readme files of the services.
 
-## Architectural Design
-<p align="center">
-    <img src="architectural_design.jpeg"  />
-</p>
 
 ## Subject Of Project
 CineVision App is an online cinema ticket sale website. The purpose of 
