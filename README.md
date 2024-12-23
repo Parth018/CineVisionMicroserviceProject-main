@@ -58,11 +58,6 @@ There are many technologies in this project. These are:
 
 https://user-images.githubusercontent.com/79381882/194945895-f7e2d2d2-4899-4ade-8c79-ecb647949ffd.mp4
 
-<h4>Main Page</h4>
-
-<img src="homa_page.jpg">
-
-[For more UI Images](https://github.com/Parth018/CineVision-Java-React/tree/main/frontend)
 
 ## Usage Of Technologies In Project
 There are 5 services in this project and each service 
