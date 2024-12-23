@@ -20,8 +20,8 @@ the actors, the release date, and so on. On this detail page, people can choose 
 and movie theater where they want to watch the film. After this selection, they can automatically
 redirect to the payment page. On this payment page, they can see ticket count and type such as 
 student and adult. Then, they can choose the chairs they will sit on in the movie theater.
-Finally, they complete the payment process after entering information
-such as credit card information, email, name,& surname.
+Finally, they complete payment process after entering information
+of credit card, email, name,& surname.
 If the payment is successful, the ticket details are sent to the email which 
 entered by the user.
 If people want to share their opinions about the movie, they can see comments on the movie detail page.
